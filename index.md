@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ian Delabie"
+title: ""
 author_profile: true
 ---
 
