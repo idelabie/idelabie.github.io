@@ -9,8 +9,7 @@ author_profile: true
 Consensus Democracies**  
 *Under review*
 
-**Coalitions for Democracy: Electoral Coordination and Satisfaction with Democ-
-racy**  
+**Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy**  
 *Under review*
 (with Jae-Jae Spoon and Jeffrey Nonnemacher)
 
