@@ -10,11 +10,11 @@ Consensus Democracies**
 *Under review*
 
 **Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy**  
-*Under review*
+*Under review*  
 (with Jae-Jae Spoon and Jeffrey Nonnemacher)
 
 **Making the Move: How Parties Respond to Demographic Changes**  
-*Working Paper*  
+*Working Paper*    
 (with Jae-Jae Spoon)
 
 **The Velo and the Vote: Local Cycling Infrastructure and Voting Intentions**  
