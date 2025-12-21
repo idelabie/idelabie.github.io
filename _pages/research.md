@@ -11,7 +11,7 @@ Consensus Democracies**
 
 **Coalitions for Democracy: Electoral Coordination and Satisfaction with Democ-
 racy**  
-*Under review *
+*Under review*
 (with Jae-Jae Spoon and Jeffrey Nonnemacher)
 
 **Making the Move: How Parties Respond to Demographic Changes**  
