@@ -7,10 +7,10 @@ author_profile: true
 
 **Means to an End: How Affective Partisanship Informs Democratic Satisfaction in
 Consensus Democracies**  
-*Under review*
+*Under Review*
 
 **Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy**  
-*Under review*  
+*Under Review*  
 (with Jae-Jae Spoon and Jeffrey Nonnemacher)
 
 **Making the Move: How Parties Respond to Demographic Changes**  
