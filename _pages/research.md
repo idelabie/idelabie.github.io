@@ -20,6 +20,9 @@ Consensus Democracies**
 **The Velo and the Vote: Local Cycling Infrastructure and Voting Intentions**  
 *Work in Progress*  
 
+**Assessing the Robustness of Post-Estimation Quantities of Interest**  
+*Work in Progress*    
+(with Max Goplerud)
 
 ## Dissertation 
 
