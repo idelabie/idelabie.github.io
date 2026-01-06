@@ -4,7 +4,6 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
-
 ## Ongoing Projects
 
 **Means to an End: How Affective Partisanship Informs Democratic Satisfaction in
