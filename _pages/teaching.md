@@ -4,7 +4,7 @@ permalink: /teaching/
 layout: single
 author_profile: true
 ---
-
+## Instructor of Record
 
 ## Teaching Assistance
 
