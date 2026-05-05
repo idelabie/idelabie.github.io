@@ -25,7 +25,8 @@ Consensus Democracies**
 ## Dissertation 
 
 **The Baker, the Butcher and the Ballot: Local Socio-Economic Marginalization and Voter Abstention in France**  
-*Working Paper*  
+*Working Paper*    
+
 <details>
 <summary>Abstract</summary>
 
