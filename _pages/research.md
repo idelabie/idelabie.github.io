@@ -12,24 +12,24 @@ author_profile: true
 
 ## Ongoing Projects
 
-1. **Means to an End: How Affective Partisanship Informs Democratic Satisfaction in Consensus Democracies**
+1. **Means to an End: How Affective Partisanship Informs Democratic Satisfaction in Consensus Democracies**   
    *Under Review*
 
-2. **Making the Move: How Parties Respond to Demographic Changes**
+2. **Making the Move: How Parties Respond to Demographic Changes**   
    *Working Paper* (with Jae-Jae Spoon)
 
-3. **Assessing the Robustness of Post-Estimation Quantities of Interest**
+3. **Assessing the Robustness of Post-Estimation Quantities of Interest**   
    *Work in Progress* (with Max Goplerud)
 
 ## Dissertation
 
-1. **The Baker, the Butcher and the Ballot: Local Socio-Economic Marginalization and Voter Abstention in France**
+1. **The Baker, the Butcher and the Ballot: Local Socio-Economic Marginalization and Voter Abstention in France**   
    *Working Paper*
 
-2. **Spinning Bikes into Ballots: Local Cycling Infrastructure and Retrospective Voting in European Municipal Elections**
+2. **Spinning Bikes into Ballots: Local Cycling Infrastructure and Retrospective Voting in European Municipal Elections**   
    *Working Paper*
 
-3. **From Pitchfork to Ballot: Localized Exposure to Farmers' Protests and Voter Turnout in the 2024 European Parliamentary Election**
+3. **From Pitchfork to Ballot: Localized Exposure to Farmers' Protests and Voter Turnout in the 2024 European Parliamentary Election**    
    *Work in Progress*
 
 
