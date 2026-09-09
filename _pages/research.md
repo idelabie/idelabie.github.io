@@ -4,43 +4,31 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
+
+## Publications
+
+1. **[Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy](https://link.springer.com/article/10.1057/s41253-026-00336-4)**
+   *French Politics*
+   (with Jae-Jae Spoon and Jeffrey Nonnemacher)
+
 ## Ongoing Projects
 
-**Means to an End: How Affective Partisanship Informs Democratic Satisfaction in
-Consensus Democracies**  
-*Under Review*
+1. **Means to an End: How Affective Partisanship Informs Democratic Satisfaction in Consensus Democracies**
+   *Under Review*
 
-**Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy**  
-*Under Review*  
-(with Jae-Jae Spoon and Jeffrey Nonnemacher)
+2. **Making the Move: How Parties Respond to Demographic Changes**
+   *Working Paper*
+   (with Jae-Jae Spoon)
 
-**Making the Move: How Parties Respond to Demographic Changes**  
-*Working Paper*    
-(with Jae-Jae Spoon)
+3. **Assessing the Robustness of Post-Estimation Quantities of Interest**
+   *Work in Progress*
+   (with Max Goplerud)
 
-**Assessing the Robustness of Post-Estimation Quantities of Interest**  
-*Work in Progress*    
-(with Max Goplerud)
+## Dissertation
 
-## Dissertation 
+1. **The Baker, the Butcher and the Ballot: Local Socio-Economic Marginalization and Voter Abstention in France**
+   *Working Paper*
 
-**The Baker, the Butcher and the Ballot: Local Socio-Economic Marginalization and Voter Abstention in France**  
-*Working Paper*    
-
-<details>
-<summary>Abstract</summary>
-
-Across Western Europe, voter abstention in first-order elections continues to rise. In France, abstention in legislative elections rose from 35.5% in 2002 to 52.5% in 2022. Despite a wealth of scholarship on voter turnout, the spatial heterogeneity and the local contextual sources of voter abstention remains underexplored. With an empirical focus on France, where abstention has been particularly severe relative to many of its Western European counterparts in the last decades, I argue that the decline of local commercial services, including bakeries, butchers and small grocers, leads to socio-economic marginalization that, in turn, depreciates electoral participation. Using a staggered difference-in-differences research design on municipal-level data from 2007 to 2022, I demonstrate that the closure of local commercial services causes abstention to increase by roughly two percentage points in legislative elections. Additional causal mediation analysis on French panel data reveals that local economic marginalization is indirectly and negatively related to the propensity to vote through increased feelings of solitude and social isolation. My work has significant implications for electoral participation and democratic representation in consolidated democracies amid increasing global economic integration.
-
-</details>  
-
-<br>
-
-**Spining Bikes into Ballots: Local Cycling Infrastructure and Retrospective Voting in European Municipal Elections**       
-*Working Paper*  
-
-
-
-
-
+2. **Spinning Bikes into Ballots: Local Cycling Infrastructure and Retrospective Voting in European Municipal Elections**
+   *Working Paper*
 
