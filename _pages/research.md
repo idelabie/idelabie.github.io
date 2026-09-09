@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 1. **[Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy](https://link.springer.com/article/10.1057/s41253-026-00336-4)**
-   *French Politics*.  
+   *French Politics*  
    (with Jae-Jae Spoon and Jeffrey Nonnemacher)
 
 ## Ongoing Projects
