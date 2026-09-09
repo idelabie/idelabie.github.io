@@ -17,11 +17,11 @@ author_profile: true
    *Under Review*
 
 2. **Making the Move: How Parties Respond to Demographic Changes**
-   *Working Paper*.  
+   *Working Paper*  
    (with Jae-Jae Spoon)
 
 4. **Assessing the Robustness of Post-Estimation Quantities of Interest**
-   *Work in Progress*.   
+   *Work in Progress*  
    (with Max Goplerud)
 
 ## Dissertation
