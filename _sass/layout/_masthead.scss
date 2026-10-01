@@ -70,18 +70,18 @@ scss
   background: #1a2f5c;
 
   &::after {
-    background: #1a2f5c; // hides the border line so it doesn't show a seam
+    background: #1a2f5c;
   }
 }
 
 .masthead__menu-item {
   background-color: #1a2f5c;
-
-  a {
-    color: #fff;
-  }
 }
 
-.masthead__menu-item a:hover {
-  color: rgba(255, 255, 255, 0.75);
+#site-nav a {
+  color: #fff;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.75);
+  }
 }
