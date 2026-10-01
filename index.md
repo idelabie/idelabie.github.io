@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-author_profile: true
+author_profile: false
 ---
 
 <div style="text-align: justify;">
