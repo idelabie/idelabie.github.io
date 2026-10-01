@@ -65,3 +65,19 @@
     font-weight: 700;
   }
 }
+scss
+.masthead {
+  background: #1a2f5c;
+
+  &::after {
+    background: #1a2f5c; // hides the border line so it doesn't show a seam
+  }
+}
+
+.masthead__menu-item {
+  background-color: #1a2f5c;
+
+  a {
+    color: #fff;
+  }
+}
