@@ -1,0 +1,33 @@
+.home-intro {
+  display: flex;
+  gap: 2.5em;
+  align-items: flex-start;
+  margin-bottom: 2em;
+
+  &__text { flex: 1 1 auto; }
+
+  &__photo img {
+    width: 220px;
+    border-radius: 6px;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column-reverse;
+  }
+}
+
+.home-intro__links {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  margin-top: 1.5em;
+}
+
+.btn--pill {
+  border: 1px solid #1a2f5c;
+  border-radius: 999px;
+  padding: 0.5em 1.2em;
+  color: #1a2f5c;
+  background: transparent;
+}
