@@ -4,6 +4,13 @@ permalink: /teaching/
 layout: single
 author_profile: true
 ---
+
+## Instructor of Record
+
+**Politics of Place**    
+*University of Pittsburgh*   
+(Scheduled Spring 2026)
+
 ## Teaching Assistance
 
 **Introduction to American Politics**    
