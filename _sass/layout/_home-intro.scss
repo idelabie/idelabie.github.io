@@ -6,11 +6,16 @@
 
   &__text { flex: 1 1 auto; }
 
-  &__photo img {
-    width: 220px;
+&__photo {
+  flex: 0 0 220px;  
+
+  img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
     border-radius: 6px;
     object-fit: cover;
   }
+}
 
   @media (max-width: 768px) {
     flex-direction: column-reverse;
