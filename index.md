@@ -12,7 +12,7 @@ Welcome! I am a Ph.D. candidate in Political Science at the University of Pittsb
 
 </div>
   <div class="home-intro__photo">
-    <img src="{{ site.url }}/images/your-photo.jpg" alt="Ian Delabie">
+    <img src="{{ site.url }}/images/IMG_0648.jpg" alt="Ian Delabie">
   </div>
 </div>
 
