@@ -7,8 +7,7 @@ author_profile: true
 
 ## Publications
 
-1. **[Coalitions for Democracy: Electoral Coordination and Satisfaction with Democracy](https://link.springer.com/article/10.1057/s41253-026-00336-4)**<br>
-   *French Politics* (with Jae-Jae Spoon and Jeffrey Nonnemacher)
+1. Delabie, Ian, Jeffrey Nonnemacher, and Jae-Jae Spoon. "[Coalitions for democracy: electoral coordination and satisfaction with democracy](https://link.springer.com/article/10.1057/s41253-026-00336-4)." *French Politics* (2026): 1-23.
 
 ## Ongoing Projects
 
@@ -31,5 +30,3 @@ author_profile: true
 
 3. **From Pitchfork to Ballot: Localized Exposure to Farmers' Protests and Voter Turnout in the 2024 European Parliamentary Election**<br>
    *Work in Progress*
-
-
